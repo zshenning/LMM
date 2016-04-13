@@ -1,4 +1,4 @@
 # LMM
-Research Paper of Alexander H.K. Montoye, Munni Begum, Zachary Henning, and Karin A. Pfeiffer
+Research Paper by Alexander H.K. Montoye, Munni Begum, Zachary Henning, and Karin A. Pfeiffer
 
 Abbstract (here)
